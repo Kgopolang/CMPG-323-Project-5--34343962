@@ -4,16 +4,20 @@
 The user can use the report to monitor the devices registered from our Connected Offices Dataset. With the relationship managed on the Power Bi Software, the user can use the provided filters to answer the preferred questions related to the data. The use of these visual representations of data can help the user to understand the relationships and trends over a period of time. Properly visualized data helps users draw meaningful conclusions.
 
 a. High-Level Metrics page
+
 Here the manager can quickly track how many devices are registered at that curent point in time under how many categories and zones.
-<img width="642" alt="a" src="https://user-images.githubusercontent.com/91874692/201111147-6e7dafe2-6671-4450-aebe-8e9942bebe42.png">
+
+<img width="631" alt="a" src="https://user-images.githubusercontent.com/91874692/201120618-59b8efce-6cf6-415a-bcf6-dddf4c3d76be.png">
 
 b. Device Monitoring page
 
-<img width="636" alt="b" src="https://user-images.githubusercontent.com/91874692/201111199-506a9d83-7a38-46d6-9365-b8df6a80b7df.png">
+<img width="628" alt="b" src="https://user-images.githubusercontent.com/91874692/201120747-800c5455-0f61-49ae-80a1-e8b14eb38c40.png">
+
 
 c. Device Registration page
 
-<img width="633" alt="c" src="https://user-images.githubusercontent.com/91874692/201111243-b3d7b85e-152b-4fd2-b17f-c9fa452b121c.png">
+<img width="628" alt="c" src="https://user-images.githubusercontent.com/91874692/201120836-b6b943b6-7671-4e87-9a78-b2712c86af38.png">
+
 
 ## proof of the publication of the power bi report:
 
