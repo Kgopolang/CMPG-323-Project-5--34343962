@@ -1,4 +1,7 @@
 # CMPG-323-Project-5--34343962
+
+## How To Use The Report:
+
 ## References:
 
 cdata, n.d. Connect Microsoft Power BI to Microsoft SharePoint. [Online] 
