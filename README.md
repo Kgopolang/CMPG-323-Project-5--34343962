@@ -1,6 +1,24 @@
 # CMPG-323-Project-5--34343962
 
 ## How To Use The Report:
+The user can use the report to monitor the devices registered from our Connected Offices Dataset. With the relationship managed on the Power Bi Software, the user can use the provided filters to answer the preferred questions related to the data. The use of these visual representations of data can help the user to understand the relationships and trends over a period of time. Properly visualized data helps users draw meaningful conclusions.
+
+a. High-Level Metrics page
+Here the manager can quickly track how many devices are registered at that curent point in time under how many categories and zones.
+<img width="642" alt="a" src="https://user-images.githubusercontent.com/91874692/201111147-6e7dafe2-6671-4450-aebe-8e9942bebe42.png">
+
+b. Device Monitoring page
+
+<img width="636" alt="b" src="https://user-images.githubusercontent.com/91874692/201111199-506a9d83-7a38-46d6-9365-b8df6a80b7df.png">
+
+c. Device Registration page
+
+<img width="633" alt="c" src="https://user-images.githubusercontent.com/91874692/201111243-b3d7b85e-152b-4fd2-b17f-c9fa452b121c.png">
+
+## proof of the publication of the power bi report:
+
+<img width="953" alt="high level metrics" src="https://user-images.githubusercontent.com/91874692/201114806-83cd0aea-20d9-46ba-9f0b-46268b6d0e4f.png">
+
 
 ## References:
 
